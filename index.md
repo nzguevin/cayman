@@ -9,3 +9,6 @@ Welcome to my blog. On this site I will be posting the assignments for the Philo
 
 # [](#header-1)Homework 2
 [Link to Homework 2](9-12-2017-Homework).
+
+# [](#header-1)Homework 3
+[Link to Homework 3](9-19-2017-Homework).
