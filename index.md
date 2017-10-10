@@ -16,3 +16,5 @@ Welcome to my blog. On this site I will be posting the assignments for the Philo
 # [](#header-1)Homework 4
 [Link to Homework 4](9-26-2017-Homework).
 
+# [](#header-1)Homework 5
+[Link to Homework 5](10-3-2017-Homework).

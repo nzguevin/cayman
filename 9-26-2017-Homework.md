@@ -53,3 +53,5 @@ This trend implies to me that Fox News is still talking about Trump in the scope
 In terms of the article *Art Against Information: Case Studies in Data Practice* I found myself very drawn to the Spam Architecture Series and the Spam Plants Series. The 3D models of this abstract data really blows me away. I find it incredibly beautiful, and knowing that there is another layer to it makes it all the more special. 
 
 I also love the layer to these two pieces specifically that is taking something as frustrating and ugly as spam, and turning it into these beautiful forms. The artists took one of the most prevelant parts of the internet, especially in 2006, and turned it into these beautiful forms. I really have no idea how these things are made, and have always wondered, which is one reason why they are so beautiful to me. 
+
+[Go back](index).
