@@ -4,11 +4,11 @@
 
 ## What does our Google search data say about us? Not much. Or at least not much of what we expected, according to our project.
 
-Two weeks ago, we decided to look at Google Searches of individuals and analyse them. We were curious about the things we would be able to learn from ourselves (and others) if we looked at our searches. Inspired in Seth Stephens-Davidowitz’ Everybody lies: how Google search reveals our darkest secrets, we wanted to look at what Google could tell us about ourselves as individuals and not as members of the cluster of a region. There were many initial concerns we knew we’d hit from the beginning. We knew that it would be difficult to find enough people who trusted us with their search data, and we knew there would be 1000 different ways of analysing it. We ultimately decided to look at the most repeated words in the searches of a year, and analyse from there if we saw any parallels or connections. 
+Two weeks ago, we decided to look at Google Searches of individuals and analyze them. We were curious about the things we would be able to learn from ourselves (and others) if we looked at our searches. Inspired in Seth Stephens-Davidowitz’ Everybody lies: how Google search reveals our darkest secrets, we wanted to look at what Google could tell us about ourselves as individuals and not as members of the cluster of a region. There were many initial concerns we knew we’d hit from the beginning. We knew that it would be difficult to find enough people who trusted us with their search data, and we knew there would be 1000 different ways of analysing it. We ultimately decided to look at the most repeated words in the searches of a year, and analyze from there if we saw any parallels or connections. 
 
 ### THE CODE
 
-In order to analyse the files, we needed to translate them out of .json format. We also needed for them to be sorted and counted, and then presented to us in a .txt file. This is all illustrated in the code.
+In order to analyze the files, we needed to translate them out of .json format. We also needed for them to be sorted and counted, and then presented to us in a .txt file. This is all illustrated in the code.
 
 ### DIFFICULTIES
 
@@ -17,7 +17,7 @@ Lali struggled finding close friend’s who googled in English exclusively. This
 
 ### CONCLUSIONS
 
-After looking into our most googled words and our friend’s, we came to the conclusion that it might be more difficult for Google (or anyone that can access this data) to draw some sound conclusions on who we are as individuals just from our searches. Looking at them made some things clear (like which TV shows we watch, or the cities we regularly visit/live in), but also revealed terms that could have ambiguous meanings. For instance, one of the subjects we used had googled the word “Trump” over 2000 times! The real question would be whether the subject is a supporter or avid opposer to the US president - either way, it would be impossible to tell (at least from how we analysed the data). When looking at our personal data, we both felt that there was much about our personalities that was missing. Things we think about often but don’t Google Search, questions we answer in different ways, secrets that are too private (even for a browser). 
+After looking into our most googled words and our friend’s, we came to the conclusion that it might be more difficult for Google (or anyone that can access this data) to draw some sound conclusions on who we are as individuals just from our searches. Looking at them made some things clear (like which TV shows we watch, or the cities we regularly visit/live in), but also revealed terms that could have ambiguous meanings. For instance, one of the subjects we used had googled the word “Trump” over 2000 times! The real question would be whether the subject is a supporter or avid opposer to the US president - either way, it would be impossible to tell (at least from how we analyzed the data). When looking at our personal data, we both felt that there was much about our personalities that was missing. Things we think about often but don’t Google Search, questions we answer in different ways, secrets that are too private (even for a browser). 
 
 However,  there is still much potential to this project. The possibilities are endless - looking at matches within searchers, doing linguistic analysis on the phrasing and wording, finding recurring themes of search, looking at behavioural patterns, trains of thought, etc. 
 
