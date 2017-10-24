@@ -1,5 +1,5 @@
-### YOU ARE WHAT YOU EAT
-### YOU ARE WHAT YOU READ
+### ~~YOU ARE WHAT YOU EAT~~
+### ~~YOU ARE WHAT YOU READ~~
 # YOU ARE WHAT YOU GOOGLE
 
 ## What does our Google search data say about us? Not much. Or at least not much of what we expected, according to our project.
