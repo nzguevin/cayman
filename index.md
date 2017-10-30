@@ -2,8 +2,8 @@
 layout: default
 ---
 
-#Philosophy of Data
+# Philosophy of Data
 [Link to Philosophy of Data assignments](Philosophy-Of-Data).
 
-#The Internet Made Real
+# The Internet Made Real
 [Link to The Internet Made Real assignments](The-Internet-Made-Real).

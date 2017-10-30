@@ -1,6 +1,6 @@
-#The Internet Made Real
+# The Internet Made Real
 
-##Homework 1
+## Homework 1
 [Link to Homework 1](IMR-10-24-17).
 
 
