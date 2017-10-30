@@ -10,4 +10,4 @@ One topic I would be really interested in is how many of these people project th
 
 Additionally, while this is all incredibly interesting to me, the information we have read so far has been so dark and scary. I understand that this is all the truth and that all this data exists, but I sincerely hope that we as human beings start to improve, and that data starts to be used for more positive reasons and less money grabbing. 
 
-[Go back](index).
+[Go back](Philosophy-Of-Data).

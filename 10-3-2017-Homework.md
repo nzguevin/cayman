@@ -8,4 +8,4 @@ I am working on my midterm with Lali, who had the wonderful idea of taking the s
 
 With all of this in mind, what we would do for the midterm would be to gather the search history from 6-8 friends of ours (including ourselves) and compare those. We would probably predispose matches to see if those data sets would match up the way we think they would. We would only compare the search data from the past year, probably, as things before that do not have nearly the significance as to who a person is now. 
 
-[Go back](index).
+[Go back](Philosophy-Of-Data).

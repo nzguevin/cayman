@@ -43,4 +43,4 @@ What this code is doing is searching through the search terms and finding every 
 
 I find "love crime" which shows up a lot and "love speech" to be very interesting ideas. I also feel like this runs the risk of being seen as a falsely profound. I really do not think this is profound in any sense, I just think it is kind of interesting.
 
-[Go back](index).
+[Go back](Philosophy-Of-Data).

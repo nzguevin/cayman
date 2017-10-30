@@ -132,4 +132,4 @@ However,  there is still much potential to this project. The possibilities are e
 	word_counts("Lali.txt", "LaliWords.txt")
 	word_counts("MaryAlice.txt", "MaryAliceWords.txt")
 	
-[Go Back](index).
+[Go Back](Philosophy-Of-Data).

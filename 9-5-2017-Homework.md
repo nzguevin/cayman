@@ -10,4 +10,4 @@ Another use of data that was introduced to me recently was the idea of calculati
 
 Well one location that commonly recieves that data is astrology websites. To get an full star chart one must input their time and location of birth, but what if these websites are calculating more than just a star chart. These websites could be saving this data on the user and either selling it or making use of it themselves. If this is the case, and if the algorithm is perfected it could lead to identity theft quite easily. Require the person who is asking for their star chart to enter their real first and last name as well, and then one could go about stealing that persons identity. Of course it would only work knowing that people would tell the truth, and if the algorithm was more accurate, but nonetheless this concept is incredibly frightening. 
 
-[Go back](index).
+[Go back](Philosophy-Of-Data).
