@@ -22,7 +22,7 @@ On this site I will be posting the assignments for the Philosophy of Data class 
 [Link to Midterm](midterm).
 
 ## Homework 8
-[Link to Homework 6](POD-11-14-17).
+[Link to Homework 8](POD-11-14-17).
 
 
 [Go Back](index).
