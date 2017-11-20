@@ -6,5 +6,8 @@
 ## Homework 2
 [Link to Homework 2](IMR-10-31-2017).
 
+## Homework 3
+[Link to Homework 3](IMR-11-21-17).
+
 
 [Go Back](index).
