@@ -24,5 +24,8 @@ On this site I will be posting the assignments for the Philosophy of Data class 
 ## Homework 8
 [Link to Homework 8](POD-11-14-17).
 
+## Final Project Idea	
+[Link to Final Project Idea](POD-Final-Idea).
+
 
 [Go Back](index).
