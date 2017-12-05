@@ -12,5 +12,7 @@
 ## Homework 4
 [Link to Homework 4](IMR-11-28-17).
 
+## Final Paper Topic
+[Link to Final Topic](FinalPaperTopic)
 
 [Go Back](index).
