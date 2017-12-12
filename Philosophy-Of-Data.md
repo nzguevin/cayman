@@ -29,6 +29,6 @@ On this site I will be posting the assignments for the Philosophy of Data class 
 
 ## Final Project Documetation
 
-[Link to Final Project Documetation](Final-Project-Documetation).
+[Link to Final Project Documetation](Final-Project-Documentation).
 
 [Go Back](index).
