@@ -27,5 +27,8 @@ On this site I will be posting the assignments for the Philosophy of Data class 
 ## Final Project Idea	
 [Link to Final Project Idea](POD-Final-Idea).
 
+## Final Project Documetation
+
+[Link to Final Project Documetation](Final-Project-Documetation).
 
 [Go Back](index).
